@@ -1,0 +1,307 @@
+﻿Source;Target;Delivery;Orders;Weight
+China;Cyprus;0;0;0
+China;Egypt;0;0;0
+China;France;0;0;0
+China;Greece;0;0;0
+China;Iran;0;0;0
+China;Israel;0;0;0
+China;Italy;0;0;0
+China;Lebanon;0;0;0
+China;Libya;0;0;0
+China;Palestine;0;0;0
+China;Russia;4;1;4,5
+China;Saudi Arabia;4;1;4,5
+China;Syria;0;0;0
+China;Turkey;0;0;0
+China;UAE;2;1;2,5
+China;UK;0;0;0
+China;USA;0;0;0
+Cyprus;China;0;0;0
+Cyprus;Egypt;0;0;0
+Cyprus;France;0;0;0
+Cyprus;Greece;0;0;0
+Cyprus;Iran;0;0;0
+Cyprus;Israel;0;0;0
+Cyprus;Italy;0;0;0
+Cyprus;Lebanon;0;0;0
+Cyprus;Libya;0;0;0
+Cyprus;Palestine;0;0;0
+Cyprus;Russia;0;0;0
+Cyprus;Saudi Arabia;0;0;0
+Cyprus;Syria;0;0;0
+Cyprus;Turkey;0;0;0
+Cyprus;UAE;0;0;0
+Cyprus;UK;0;0;0
+Cyprus;USA;0;0;0
+Egypt;China;0;0;0
+Egypt;Cyprus;0;0;0
+Egypt;France;0;0;0
+Egypt;Greece;0;0;0
+Egypt;Iran;0;0;0
+Egypt;Israel;0;0;0
+Egypt;Italy;0;0;0
+Egypt;Lebanon;0;0;0
+Egypt;Libya;0;0;0
+Egypt;Palestine;0;0;0
+Egypt;Russia;0;0;0
+Egypt;Saudi Arabia;0;0;0
+Egypt;Syria;0;0;0
+Egypt;Turkey;0;0;0
+Egypt;UAE;0;0;0
+Egypt;UK;0;0;0
+Egypt;USA;0;0;0
+France;China;12;0;12
+France;Cyprus;2;0;2
+France;Egypt;24;5;26,5
+France;Greece;10;10;15
+France;Iran;0;0;0
+France;Israel;0;0;0
+France;Italy;5;2;6
+France;Lebanon;1;1;1,5
+France;Libya;0;0;0
+France;Palestine;0;0;0
+France;Russia;0;0;0
+France;Saudi Arabia;21;9;25,5
+France;Syria;0;0;0
+France;Turkey;4;0;4
+France;UAE;12;4;14
+France;UK;1;1;1,5
+France;USA;17;2;18
+Greece;China;0;0;0
+Greece;Cyprus;0;0;0
+Greece;Egypt;0;0;0
+Greece;France;0;0;0
+Greece;Iran;0;0;0
+Greece;Israel;0;0;0
+Greece;Italy;0;0;0
+Greece;Lebanon;0;0;0
+Greece;Libya;0;0;0
+Greece;Palestine;0;0;0
+Greece;Russia;0;0;0
+Greece;Saudi Arabia;0;0;0
+Greece;Syria;0;0;0
+Greece;Turkey;0;0;0
+Greece;UAE;0;0;0
+Greece;UK;0;0;0
+Greece;USA;0;0;0
+Iran;China;0;0;0
+Iran;Cyprus;0;0;0
+Iran;Egypt;0;0;0
+Iran;France;0;0;0
+Iran;Greece;0;0;0
+Iran;Israel;0;0;0
+Iran;Italy;0;0;0
+Iran;Lebanon;0;0;0
+Iran;Libya;0;0;0
+Iran;Palestine;0;0;0
+Iran;Russia;6;4;8
+Iran;Saudi Arabia;0;0;0
+Iran;Syria;0;0;0
+Iran;Turkey;0;0;0
+Iran;UAE;0;0;0
+Iran;UK;0;0;0
+Iran;USA;0;0;0
+Israel;China;0;0;0
+Israel;Cyprus;2;4;4
+Israel;Egypt;0;0;0
+Israel;France;0;0;0
+Israel;Greece;2;7;5,5
+Israel;Iran;0;0;0
+Israel;Italy;4;2;5
+Israel;Lebanon;0;0;0
+Israel;Libya;0;0;0
+Israel;Palestine;0;0;0
+Israel;Russia;0;0;0
+Israel;Saudi Arabia;0;0;0
+Israel;Syria;0;0;0
+Israel;Turkey;0;0;0
+Israel;UAE;3;3;4,5
+Israel;UK;4;1;4,5
+Israel;USA;11;5;13,5
+Italy;China;0;0;0
+Italy;Cyprus;0;0;0
+Italy;Egypt;14;3;15,5
+Italy;France;3;0;3
+Italy;Greece;5;3;6,5
+Italy;Iran;0;0;0
+Italy;Israel;3;0;3
+Italy;Lebanon;0;0;0
+Italy;Libya;0;0;0
+Italy;Palestine;0;0;0
+Italy;Russia;0;0;0
+Italy;Saudi Arabia;1;1;1,5
+Italy;Syria;0;0;0
+Italy;Turkey;14;1;14,5
+Italy;UAE;2;3;3,5
+Italy;UK;0;0;0
+Italy;USA;9;2;10
+Lebanon;China;0;0;0
+Lebanon;Cyprus;0;0;0
+Lebanon;Egypt;0;0;0
+Lebanon;France;0;0;0
+Lebanon;Greece;0;0;0
+Lebanon;Iran;0;0;0
+Lebanon;Israel;0;0;0
+Lebanon;Italy;0;0;0
+Lebanon;Libya;0;0;0
+Lebanon;Palestine;0;0;0
+Lebanon;Russia;0;0;0
+Lebanon;Saudi Arabia;0;0;0
+Lebanon;Syria;0;0;0
+Lebanon;Turkey;0;0;0
+Lebanon;UAE;0;0;0
+Lebanon;UK;0;0;0
+Lebanon;USA;0;0;0
+Libya;China;0;0;0
+Libya;Cyprus;0;0;0
+Libya;Egypt;0;0;0
+Libya;France;0;0;0
+Libya;Greece;0;0;0
+Libya;Iran;0;0;0
+Libya;Israel;0;0;0
+Libya;Italy;0;0;0
+Libya;Lebanon;0;0;0
+Libya;Palestine;0;0;0
+Libya;Russia;0;0;0
+Libya;Saudi Arabia;0;0;0
+Libya;Syria;0;0;0
+Libya;Turkey;0;0;0
+Libya;UAE;0;0;0
+Libya;UK;0;0;0
+Libya;USA;0;0;0
+Palestine;China;0;0;0
+Palestine;Cyprus;0;0;0
+Palestine;Egypt;0;0;0
+Palestine;France;0;0;0
+Palestine;Greece;0;0;0
+Palestine;Iran;0;0;0
+Palestine;Israel;0;0;0
+Palestine;Italy;0;0;0
+Palestine;Lebanon;0;0;0
+Palestine;Libya;0;0;0
+Palestine;Russia;0;0;0
+Palestine;Saudi Arabia;0;0;0
+Palestine;Syria;0;0;0
+Palestine;Turkey;0;0;0
+Palestine;UAE;0;0;0
+Palestine;UK;0;0;0
+Palestine;USA;0;0;0
+Russia;China;26;0;26
+Russia;Cyprus;0;0;0
+Russia;Egypt;3;0;3
+Russia;France;0;0;0
+Russia;Greece;0;0;0
+Russia;Iran;5;2;6
+Russia;Israel;0;0;0
+Russia;Italy;0;0;0
+Russia;Lebanon;0;0;0
+Russia;Libya;0;0;0
+Russia;Palestine;0;0;0
+Russia;Saudi Arabia;0;2;1
+Russia;Syria;6;2;7
+Russia;Turkey;2;0;2
+Russia;UAE;1;0;1
+Russia;UK;0;0;0
+Russia;USA;0;0;0
+Saudi Arabia;China;0;0;0
+Saudi Arabia;Cyprus;0;0;0
+Saudi Arabia;Egypt;0;0;0
+Saudi Arabia;France;0;0;0
+Saudi Arabia;Greece;0;0;0
+Saudi Arabia;Iran;0;0;0
+Saudi Arabia;Israel;0;0;0
+Saudi Arabia;Italy;0;0;0
+Saudi Arabia;Lebanon;0;0;0
+Saudi Arabia;Libya;0;0;0
+Saudi Arabia;Palestine;0;0;0
+Saudi Arabia;Russia;0;0;0
+Saudi Arabia;Syria;0;0;0
+Saudi Arabia;Turkey;0;0;0
+Saudi Arabia;UAE;0;0;0
+Saudi Arabia;UK;0;0;0
+Saudi Arabia;USA;0;0;0
+Syria;China;0;0;0
+Syria;Cyprus;0;0;0
+Syria;Egypt;0;0;0
+Syria;France;0;0;0
+Syria;Greece;0;0;0
+Syria;Iran;0;0;0
+Syria;Israel;0;0;0
+Syria;Italy;0;0;0
+Syria;Lebanon;0;0;0
+Syria;Libya;0;0;0
+Syria;Palestine;0;0;0
+Syria;Russia;0;0;0
+Syria;Saudi Arabia;0;0;0
+Syria;Turkey;0;0;0
+Syria;UAE;0;0;0
+Syria;UK;0;0;0
+Syria;USA;0;0;0
+Turkey;China;0;0;0
+Turkey;Cyprus;0;0;0
+Turkey;Egypt;0;0;0
+Turkey;France;0;0;0
+Turkey;Greece;0;0;0
+Turkey;Iran;0;0;0
+Turkey;Israel;0;0;0
+Turkey;Italy;0;0;0
+Turkey;Lebanon;0;0;0
+Turkey;Libya;2;2;3
+Turkey;Palestine;0;0;0
+Turkey;Russia;0;0;0
+Turkey;Saudi Arabia;1;2;2
+Turkey;Syria;0;0;0
+Turkey;UAE;7;4;9
+Turkey;UK;0;0;0
+Turkey;USA;0;0;0
+UAE;China;0;0;0
+UAE;Cyprus;0;0;0
+UAE;Egypt;6;1;6,5
+UAE;France;0;0;0
+UAE;Greece;0;0;0
+UAE;Iran;0;0;0
+UAE;Israel;0;0;0
+UAE;Italy;0;0;0
+UAE;Lebanon;0;0;0
+UAE;Libya;0;0;0
+UAE;Palestine;0;0;0
+UAE;Russia;0;0;0
+UAE;Saudi Arabia;1;1;1,5
+UAE;Syria;0;0;0
+UAE;Turkey;0;0;0
+UAE;UK;0;0;0
+UAE;USA;0;0;0
+UK;China;0;0;0
+UK;Cyprus;0;0;0
+UK;Egypt;1;1;1,5
+UK;France;9;0;9
+UK;Greece;4;1;4,5
+UK;Iran;0;0;0
+UK;Israel;0;0;0
+UK;Italy;1;1;1,5
+UK;Lebanon;0;0;0
+UK;Libya;0;0;0
+UK;Palestine;0;0;0
+UK;Russia;0;0;0
+UK;Saudi Arabia;5;3;6,5
+UK;Syria;0;0;0
+UK;Turkey;0;0;0
+UK;UAE;5;4;7
+UK;USA;12;2;13
+USA;China;0;0;0
+USA;Cyprus;0;0;0
+USA;Egypt;25;0;25
+USA;France;12;0;12
+USA;Greece;11;0;11
+USA;Iran;0;0;0
+USA;Israel;31;0;31
+USA;Italy;29;0;29
+USA;Lebanon;18;0;18
+USA;Libya;0;0;0
+USA;Palestine;0;0;0
+USA;Russia;3;0;3
+USA;Saudi Arabia;65;0;65
+USA;Syria;0;0;0
+USA;Turkey;25;0;25
+USA;UAE;35;0;35
+USA;UK;26;0;26
